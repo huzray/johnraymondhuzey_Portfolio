@@ -7,3 +7,9 @@ github.com/johnraymondhuzey
 ├── python-pentesting-tools
 ├── network-pentest-playbook
 └── penetration-testing-reports
+
+README.md
+methodology.md
+screenshots/
+scripts/
+report/
